@@ -1,5 +1,0 @@
-Time resolution is 1 ps
-time=0,a=00000000,b=00000000,opcode=000,out=11111111
-time=10000,a=00000010,b=00000101,opcode=100,out=00001010
-time=20000,a=00000011,b=00000100,opcode=011,out=00000000
-$finish called at time : 30 ns : File "C:/Users/NIKSHITHA CV/Desktop/fpga folder/8_bit_ALU/8_bit_ALU.srcs/sim_1/new/alu_8bit_tb.v" Line 21
