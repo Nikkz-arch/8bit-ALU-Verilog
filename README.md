@@ -4,7 +4,7 @@ This Verilog module implements an 8-bit Arithmetic Logic Unit (ALU) capable of p
 Bitwise AND, OR, XOR
 Addition and Subtraction
 4-bit Multiplication (based on the lower 4 bits of each operand)
-An 8-to-1 multiplexer is used internally to select the operation based on the opcode, ensuring a clean and modular design.
+An 8-to-1 multiplexer is used internally to select the operation based on the opcode, ensuring a clean and modular design
 
 Simulation:
 Simulated and verified using Xilinx Vivado
